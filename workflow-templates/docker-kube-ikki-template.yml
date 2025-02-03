@@ -1,4 +1,4 @@
-name: ci
+name: Ikki-League ci
 
 on: [push]
 

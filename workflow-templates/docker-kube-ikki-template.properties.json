@@ -1,5 +1,5 @@
 {
-  "name": "Ikki kubernetes workflow",
+  "name": "Ikki-League ci",
   "description": "Ikki-league Kubernetes CI workflow template.",
   "categories": [
       "ikki"
